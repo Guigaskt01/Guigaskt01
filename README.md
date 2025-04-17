@@ -10,8 +10,8 @@
 
 <p align="left">
   Hi Network! I'm Guilherme Henrique<br><br>
-  I'm currently graduating in **Software Engineering** and I'm always eager to learn more in the tech field.<br><br> 
-  I have strong skills in **Python** and basic experience with **MySQL**. In the coming months, I am focusing on learning **AWS** and **Docker**, expanding my stack to the cloud and infrastructure space.<br><br>
+  I'm currently graduating in Software Engineering and I'm always eager to learn more in the tech field.<br><br> 
+  I have strong skills in Python and basic experience with MySQL. In the coming months, I am focusing on learning AWS and Docker expanding my stack to the cloud and infrastructure space.<br><br>
   On my GitHub, you'll find projects that reflect my journey as a developer, from Python scripts to working with databases, and soon, cloud-based applications.
 </p>
 
