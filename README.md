@@ -1,4 +1,4 @@
-<div align="center">
+![image](https://github.com/user-attachments/assets/15ed2be6-db88-46ce-9fc5-77fc53dacdc2)<div align="center">
   <a href="https://br.linkedin.com/in/guilherme-henrique-401a6b2b1" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
@@ -16,7 +16,7 @@
 <br clear="both">
 
 <div align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=guigasRomantico.guigasRomantico&left_color=darkslategray&right_color=blue"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Guigaskt01.Guigast01&left_color=darkslategray&right_color=blue"  />
 </div>
 
 ###
