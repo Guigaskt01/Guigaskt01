@@ -19,7 +19,7 @@
 ###
 
 <div align="center">
-  <img height="150" src="https://github.com/Guigaskt01/GuigasRomantico/blob/main/ac03382d-d03b-4ad5-8acb-97aaf8183a9b.jpg?raw=true"  />
+  <img height="150" src="https://github.com/Guigaskt01/Guigaskt01/blob/main/ac03382d-d03b-4ad5-8acb-97aaf8183a9b.jpg?raw=true"  />
 </div>
 
 ###
