@@ -78,6 +78,3 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Guigaskt01/Guigaskt01/output/snake.svg" alt="Snake animation" />
-
-
